@@ -220,3 +220,19 @@ Aether has multiple schools of usage, each requiring a different Resonance betwe
 | Statics | Brace stance, harden limbs, reduce recoil | Structural anchors, force redirection fields, temporary bridge supports, immobilization locks |
 
 *Statics becomes the backbone of defensive engineering and "redirect the blow through the floor" combat.*
+
+
+**Red Line Summary**
+Red Line is the slang term for when an Aether user pushes beyond the safe boundary and begins to experience detrimental and lethal effects.
+
+| Legend | School | Failure Mode |
+| ----- | ----- | ----- |
+| Marrow | Kinetics | Neural delay |
+| Valenne | Thermatics | Thermal runaway |
+| Vael | Hydraulics | Metabolic depletion |
+| Kaith | Sonics | Cognitive feedback |
+| Dov | Photonics | Lattice decoherence |
+| Dorn | Statics | Field entrapment |
+| Korr | Pneumatics | Total resonance burnout |
+
+Even centuries later, the phrase "to chase the Red Line" means to push your conduit to fatal performance.

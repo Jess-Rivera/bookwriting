@@ -1,6 +1,6 @@
 ## **THESIS**
 
-WIP
+* Rene and Elias are two sides of the same coin. They experience the same world and see the same evidence. Where Rene stays open and extends good faith as a choice, Elias stays closed and hardens against the world. The institutions don't create the difference, they determine which side lands face up.
 
 ## **TONE & CRAFT NOTES**
 

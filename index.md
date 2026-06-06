@@ -11,7 +11,11 @@ Part 2 Movement 1 https://raw.githubusercontent.com/Jess-Rivera/bookwriting/refs
 
 ## Fetch by topic
 **Characters**
-    Rene https://raw.githubusercontent.com/Jess-Rivera/bookwriting/refs/heads/main/Characters/rene_morin.md
+    Rene Morin https://raw.githubusercontent.com/Jess-Rivera/bookwriting/refs/heads/main/Characters/rene_morin.md
+    Elias Callen https://raw.githubusercontent.com/Jess-Rivera/bookwriting/refs/heads/main/Characters/elias_callen.md
+    Armand Verenne https://raw.githubusercontent.com/Jess-Rivera/bookwriting/refs/heads/main/Characters/armand_verenne.md
+    Eloise Malicet https://raw.githubusercontent.com/Jess-Rivera/bookwriting/refs/heads/main/Characters/eloise_malicet.md
+    
 
 **Worldbuilding**
     Aether Combat Logic https://raw.githubusercontent.com/Jess-Rivera/bookwriting/refs/heads/main/Worldbuilding/aether_combat_logic.md

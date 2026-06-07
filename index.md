@@ -6,6 +6,7 @@ Index Location: https://raw.githubusercontent.com/Jess-Rivera/bookwriting/refs/h
 ## Fetch for scene/scaffolding
 Part 2 Architecture https://raw.githubusercontent.com/Jess-Rivera/bookwriting/refs/heads/main/Outline/part2_architecture.md
 Part 2 Movement 1 https://raw.githubusercontent.com/Jess-Rivera/bookwriting/refs/heads/main/SceneNotes/part2_movement1.md
+Part 2 Movement 2 https://raw.githubusercontent.com/Jess-Rivera/bookwriting/refs/heads/main/SceneNotes/part2_movement2.md
 
 ## Fetch by topic
 
